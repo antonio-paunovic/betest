@@ -1,4 +1,4 @@
-module betest
+module github.com/antonio-paunovic/betest
 
 go 1.16
 
