@@ -1,4 +1,4 @@
-module roycebetest
+module betest
 
 go 1.16
 
